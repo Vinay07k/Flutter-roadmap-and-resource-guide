@@ -140,7 +140,6 @@ Below are the resources which you can use to expand you Flutter knowledge and re
   - [Easy Approach][easyapproach-yt]
   - [Net Ninja][net-ninja-playlist]
 
-### Make sure to 🌟 the Repo!
 
 
 
