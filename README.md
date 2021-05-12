@@ -95,7 +95,7 @@ The next big thing you need to learn for Flutter is managing the state. There ar
  - [Providers][provider]
  - [BloC][bloc]
  - [Redux][redux]
- - [MobX][mobx] and others.
+ - [MobX][mobx]
 
 ## 📱 Store Knowledge
 
