@@ -8,7 +8,7 @@ Its more like a mix of Roadmap and Resource. So, that if you are a complete begi
 
 ## 🎯 Confusion Regarding Dart
 
-A lot of people think ask whether we need to learn **Dart** before starting flutter or not? My opinion is:
+A lot of people think whether we need to learn **Dart** before starting flutter or not? My opinion is:
 
 - If you are new programmer, you must have the knowledge of OOP and Stack in Data structure will be a plus!
 - Otherwise, there is no need to learn Dart specifically its quite similar to Java/C++/C# so you will keep getting it on the way :)
@@ -53,7 +53,7 @@ Now, you are done with the basics of flutter and its time to up your flutter gam
 - [Firebase Official Doc for Flutter][firebase-flutter-official]
 - [Net Ninja YT Playlist - Flutter & Firebase][net-ninja-firebase-plyalist]
 
-But What if your client asks you store data locally? No problemo! You can learn **[SQFlite][sqflite-flutter-pkg]** quite similar to *sqlite*.
+But What if your client asks you to store data locally? No problem! You can learn **[SQFlite][sqflite-flutter-pkg]**, it's quite similar to *sqlite*.
 <p align="center">
 <img height=300 src="https://user-images.githubusercontent.com/43790152/100063113-7defde00-2e52-11eb-80b2-a9d2e79b21a2.png" >
 </p>
@@ -186,8 +186,3 @@ Below are the resources which you can use to expand you Flutter knowledge and re
 [awesome-flutter-github]: https://github.com/Solido/awesome-flutter
 [itsallwidges]: https://itsallwidgets.com/
 [fidev]: https://fidev.io/
-
-[my-stackoverflow]: https://stackoverflow.com/users/12297382/hamza
-[my-github]: https://github.com/m-hamzashakeel
-[my-medium]: https://medium.com/@hamza.6.shakeel
-[my-portfolio]: http://m-hamzashakeel.github.io/
